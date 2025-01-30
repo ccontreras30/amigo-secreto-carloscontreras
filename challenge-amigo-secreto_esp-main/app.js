@@ -1,5 +1,5 @@
 //El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
-// document.addEventListener("DOMContentLoaded", () => {
+document.addEventListener("DOMContentLoaded", () => {
     const inputNombre = document.getElementById("nombre");
     const btnAdicionar = document.getElementById("adicionar");
     const btnSortear = document.getElementById("sortear");
